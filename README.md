@@ -23,13 +23,13 @@ I chose a few items from Kegel. The first dataset was downloaded from the link b
 
 
 ## Environment
-  Python 3.8.16
-  Pytorch 2.0.1
-  Matplotlib 3.7.1
-  PIL (pillow) 9.4.0
-  Scikit-learn 1.0.2
-  Pandas 1.5.3
-  Numpy 1.23.5
+  - Python 3.8.16
+  - Pytorch 2.0.1
+  - Matplotlib 3.7.1
+  - PIL (pillow) 9.4.0
+  - Scikit-learn 1.0.2
+  - Pandas 1.5.3
+  - Numpy 1.23.5
 
 ## Model Structure
 1. Alzheimer : CNN
