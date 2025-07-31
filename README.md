@@ -4,7 +4,7 @@
 ##### Code I used while studying AI application to health issues using Pytorch, A program that can analyze and diagnose datasets for Alzheimer's and the other is for lung cancer.
 
 ## Dataset
-I chose a few items from Kegel. The first dataset was downloaded from the link below as MRI photos of Alzheimer's over time. The second dataset is about information on lung cancer patients and is downloaded from the link below.
+I chose a few items from Kaggle. The first dataset was downloaded from the link below as MRI photos of Alzheimer's over time. The second dataset is about information on lung cancer patients and is downloaded from the link below.
 
 1. Alzheimer :
    Link : https://www.kaggle.com/datasets/lukechugh/best-alzheimer-mri-dataset-99-accuracy
