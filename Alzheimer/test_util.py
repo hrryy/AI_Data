@@ -9,7 +9,7 @@ from dataset.data_preset import AlzheimerDataset
 from model.CNNet import CNNet
 
 #######################
-# Ready to Test Model #
+# Ready Test Model #
 #######################
 
 def test_model(run_mode, trained_model):
